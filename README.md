@@ -18,19 +18,18 @@
 </div>
 ##
 <div style="display: inline_block"><br>
-  <img align="center" alt="Italo-Js" height="30" width="40" src="">
-  <img align="center" alt="Italo-Ts" height="30" width="40" src="">
-  <img align="center" alt="Italo-React" height="30" width="40" src="">
-  <img align="center" alt="Italo-HTML" height="30" width="40" src="">
-  <img align="center" alt="Italo-CSS" height="30" width="40" src="">
+  <img align="center" alt="ital0-alves-Js" height="30" width="40" src="">
+  <img align="center" alt="ital0-alves-Ts" height="30" width="40" src="">
+  <img align="center" alt="ital0-alves-React" height="30" width="40" src="">
+  <img align="center" alt="ital0-alves-HTML" height="30" width="40" src="">
+  <img align="center" alt="ital0-alves-CSS" height="30" width="40" src="">
  
 </div>
 ##
 <div>
   <a href="https://www.youtube.com/@Senacceoficial" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/italoo_pereiraa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/236957863879114754" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:denissilva@ce.senac.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:italo.alves191020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/italo-pereira-alves-193bb6192" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
